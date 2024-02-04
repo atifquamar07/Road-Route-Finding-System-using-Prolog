@@ -1,4 +1,4 @@
-# Road-Route-Finding-System-Prolog-
+# Road-Route-Finding-System-Prolog
 A Road Route finding system using Prolog. The system first reads data from
 a CSV file to generate facts about the distance between two cities and also the heuristic
 values for the same in the knowledge base as predicates. Then implements either a best-first
